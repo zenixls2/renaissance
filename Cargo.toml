@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "renaissance",
+  "renaissance_indicator",
+  "renaissance_token",
+]
